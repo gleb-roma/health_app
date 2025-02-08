@@ -1,6 +1,6 @@
 .DS_Store
 apple_health_app.zip
-vital_signs_data.parquet
+*.parquet
 apple_health_export/.DS_Store
 apple_health_export/export_cda.xml
 apple_health_export/export.xml
@@ -735,3 +735,6 @@ apple_health_export-2/workout-routes/route_2024-11-15_11.52am.gpx
 apple_health_export-2/workout-routes/route_2024-12-03_9.06am.gpx
 apple_health_export-2/workout-routes/route_2024-12-07_10.01am.gpx
 apple_health_export-2/workout-routes/route_2024-12-07_10.08am.gpx
+activities_data_2.parquet
+activities_data.parquet
+mindful_minutes_data.parquet
